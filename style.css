@@ -13,7 +13,32 @@
     font-size: 9px;
     background-color: black;
     color: aliceblue;
-    border: 3px solid gray;
+    border: 2px solid white;
     padding: 5px 13px;
     border-radius: 4px;
+}
+
+.icon {
+    background-color: #1678C2;
+    padding: 3px 6px;
+    border-radius: 4px;
+}
+
+.midheading {
+    text-align: center;
+}
+
+.imagine{
+    font-size: 34px;
+    margin-top: 90px;
+    color: aliceblue;
+}
+
+.do {
+    font-size: 14px;
+    color: antiquewhite;
+}
+
+.main {
+    background-color: black;
 }
