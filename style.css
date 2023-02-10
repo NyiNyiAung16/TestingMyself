@@ -1,0 +1,19 @@
+.mainheading {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+
+
+.pf {
+    padding-left: 15px;
+}
+
+.mf {
+    font-size: 9px;
+    background-color: black;
+    color: aliceblue;
+    border: 3px solid gray;
+    padding: 5px 13px;
+    border-radius: 4px;
+}
